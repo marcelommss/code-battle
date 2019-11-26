@@ -12,3 +12,11 @@ Made by Team 89
 - Gustavo Alexandrino
 - Lindenberg Moreira
 - Marcelo Motta de Mattos
+
+## Instalation
+
+git clone https://github.com/marcelommss/code-battle.git
+
+cd/code-battle
+
+yarn
