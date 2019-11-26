@@ -1,2 +1,14 @@
 # code-battle
+
 Projeto do hackaton da RS/XP 2019
+
+### CODE BATTLE
+
+<p align="center">Código do projeto do hackaton da RS/XP 2019🎓</p>
+
+Made by Team 89
+
+- Danilo Silva
+- Gustavo Alexandrino
+- Lindenberg Moreira
+- Marcelo Motta de Mattos
