@@ -1,8 +1,8 @@
-# code-battle
-
-Projeto do hackaton da RS/XP 2019
-
 ### CODE BATTLE
+
+<strong>
+Projeto do hackaton da RS/XP 2019
+</strong>
 
 <p align="center">Código do projeto do hackaton da RS/XP 2019🎓</p>
 
