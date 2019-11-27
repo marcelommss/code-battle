@@ -30,7 +30,13 @@ Caso o aluno perca uma batalha, será instruído a consumir um conteúdo direcio
 
 Também criamos torneios, em que instuições de ensino poderão criar desafios internos. Da mesma forma, também criaremos torneios regionais criados pela Code Battle, aonde desafio é pra valer. Competições munícipais, estaduais, nacionais e até internacionais.
 
-Assim que o ranking é elevado, os desafios são modificados, não se limitando somente ao modo de quiz.
+Assim que o ranking é elevado, os desafios também são elevados, não se limitando somente ao modo de quiz, com desafios mais complexos, em que o aluno terá a oportunidade de implementar desde pequenos trexos de código até códigos para soluções mais complexas.
+
+Trófeus e ranking de pontuação, podem ser limitadores para que os alunos possam participar ou não de determinados torneios.
+
+Além do aprendizado, os alunos irão receber recompensas por participarem e por vencerem determinados torneios, e SEMPRE para os grandes vencedores no final de cada temporada do Code Battle.
+
+Poderemos estabelecer disputas por idade, através do nosso cadastro de alunos, tornando as competições mais justas.
 
 ### Tecnologies
 
