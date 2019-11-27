@@ -2,6 +2,7 @@ import React from "react";
 import { Image } from "react-native";
 import { createAppContainer } from "react-navigation";
 import { createStackNavigator } from "react-navigation-stack";
+import "react-native-gesture-handler";
 
 import Welcome from "../screens/Welcome";
 import Login from "../screens/Login";
@@ -51,4 +52,7 @@ const screens = createStackNavigator(
   }
 );
 
-export default createAppContainer(screens);
+const NavigationApp = createAppContainer(screens);
+
+// export default createAppContainer();
+export default NavigationApp;
