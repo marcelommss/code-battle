@@ -1,28 +1,30 @@
 {
   "expo": {
-    "name": "< Code Battle >",
-    "slug": "codebattle",
+    "name": "Code Battle",
+    "slug": "mobile",
     "privacy": "public",
     "sdkVersion": "35.0.0",
-    "platforms": ["ios", "android", "web"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#0f0e0e"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": false,
-      "userInterfaceStyle": "dark"
-    },
-    "androidStatusBar": {
-      "barStyle": "dark-content"
+      "supportsTablet": true
     }
   }
 }
