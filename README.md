@@ -1,11 +1,11 @@
 <h1 align="center"> CODE BATTLE </h1>
 
 <p align="center">
-:space_invader
+:space_invader:
 <strong>
 Projeto do hackaton da RS/XP 2019
 </strong>
-:space_invader </p>
+:space_invader: </p>
 
 ### SQUAD
 
