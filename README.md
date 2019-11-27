@@ -7,7 +7,7 @@ Projeto do hackaton da RS/XP 2019
 </strong>
 :space_invader: </p>
 
-### SQUAD
+### SQUAD / TIME 89
 
 - Danilo Silva
 - Gustavo Alexandrino
@@ -16,7 +16,7 @@ Projeto do hackaton da RS/XP 2019
 
 <h3 align="center"><strong>Code Battle: game de disputa de conhecimentos em tecnologia. </strong></h3>
 
-### Descrição
+### Description / Descrição
 
 Para estimular os alunos a buscarem mais conhecimento, criamos o Code Battle, um game de desafios de tecnologia.
 
@@ -38,11 +38,11 @@ Além do aprendizado, os alunos irão receber recompensas por participarem e por
 
 Poderemos estabelecer disputas por idade, através do nosso cadastro de alunos, tornando as competições mais justas.
 
-### Tecnologies
+### Technologies / Tecnologias
 
 React Native, Adobe XD e Firebase
 
-### Instalation
+### Installation / Instalação
 
 git clone https://github.com/marcelommss/code-battle.git
 
