@@ -9,16 +9,16 @@ Projeto do hackaton da RS/XP 2019
 
 ### SQUAD
 
-= Danilo Silva
-= Gustavo Alexandrino
-= Lindenberg Moreira
-= Marcelo Motta de Mattos
+- Danilo Silva
+- Gustavo Alexandrino
+- Lindenberg Moreira
+- Marcelo Motta de Mattos
 
 <h3 align="center"><strong>Code Battle: game de disputa de conhecimentos em tecnologia. </strong></h3>
 
 ### Descrição
 
-Para estimular os alunos a buscarem mais conhecimento, criamos o Code Battle, um :space_invader: game de desafios de tecnologia :space_invader:.
+Para estimular os alunos a buscarem mais conhecimento, criamos o Code Battle, um game de desafios de tecnologia.
 
 O game cria batalhas de conhecimento, no qual os alunos disputarão entre si os conhecimentos por tecnologia escolhida.
 
